@@ -1,5 +1,3 @@
-import TabuleiroDeJogo.Posicao;
-import TabuleiroDeJogo.Tabuleiro;
 import xadrez.PartidaDeXadrez;
 
 public class Main {
